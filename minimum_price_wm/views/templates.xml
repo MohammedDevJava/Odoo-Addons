@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<odoo>
+    <data>
+        <!-- Add your JavaScript file -->
+        <template id="assets" name="minimum_price_wm assets" inherit_id="web.assets_backend">
+            <xpath expr="." position="inside">
+                <script type="text/javascript" src="/minimum_price_wm/static/src/js/sale_order_highlight.js"></script>
+            </xpath>
+        </template>
+    </data>
+</odoo>
+
+

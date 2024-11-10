@@ -1,0 +1,4 @@
+/* In your CSS file (e.g., sale_order_highlight.css) */
+.text-danger {
+    color: red !important;
+}
