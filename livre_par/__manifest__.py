@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 {
-    'name': "Ajouter le champe livré par ",
+    'name': "Ajouter le champe livré par Dans Devis , Bon de livraison , Facture ",
     'description':
         """
         Ce module ajoute un champ 'Livré par' dans les documents Devis, Inventaires et Factures. 
