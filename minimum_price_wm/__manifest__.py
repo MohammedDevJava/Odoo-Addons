@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 {
-    'name': " Minimum Price Module webmania",
+    'name': " Minimum Price Module",
     'summary': """
        Lock and control your minimum sale price to POS, Sales Order and Invoice
 """,
@@ -12,7 +12,6 @@
     'category': 'Sale',
     'version': '0.1',
     'depends': ['web','base', 'sale'],
-    # always loaded
     'data': [
         # 'security/ir.model.access.csv',
         'views/templates.xml',
